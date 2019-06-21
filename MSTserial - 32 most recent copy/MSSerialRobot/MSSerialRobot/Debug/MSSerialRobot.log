@@ -1,0 +1,47 @@
+﻿  tserial.cpp
+e:\mstserial - 32(inclass only) most recent copy\tserial.cpp(59): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  Robot2.cpp
+e:\mstserial - 32(inclass only) most recent copy\robot2.cpp(130): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\mstserial - 32(inclass only) most recent copy\robot2.cpp(215): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\mstserial - 32(inclass only) most recent copy\robot2.cpp(215): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\mstserial - 32(inclass only) most recent copy\robot2.cpp(191): warning C4101: 'difference': unreferenced local variable
+e:\mstserial - 32(inclass only) most recent copy\robot2.cpp(263): warning C4101: 'y': unreferenced local variable
+e:\mstserial - 32(inclass only) most recent copy\robot2.cpp(263): warning C4101: 'x': unreferenced local variable
+  RhrinoRobot.cpp
+e:\mstserial - 32(inclass only) most recent copy\rhrinorobot.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+e:\mstserial - 32(inclass only) most recent copy\rhrinorobot.cpp(16): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+e:\mstserial - 32(inclass only) most recent copy\rhrinorobot.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\mstserial - 32(inclass only) most recent copy\rhrinorobot.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\mstserial - 32(inclass only) most recent copy\rhrinorobot.cpp(69): warning C4101: 'result2': unreferenced local variable
+e:\mstserial - 32(inclass only) most recent copy\rhrinorobot.h(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  e:\mstserial - 32(inclass only) most recent copy\rhrinorobot.cpp(74): note: see reference to function template instantiation 'fltval roundf<float>(fltval,int)' being compiled
+          with
+          [
+              fltval=float
+          ]
+  Line2017.cpp
+  IBMRobot.cpp
+e:\mstserial - 32(inclass only) most recent copy\ibmrobot.cpp(19): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\mstserial - 32(inclass only) most recent copy\ibmrobot.cpp(20): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\mstserial - 32(inclass only) most recent copy\ibmrobot.cpp(24): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\mstserial - 32(inclass only) most recent copy\ibmrobot.cpp(25): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\mstserial - 32(inclass only) most recent copy\ibmrobot.cpp(28): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\mstserial - 32(inclass only) most recent copy\ibmrobot.cpp(35): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\mstserial - 32(inclass only) most recent copy\ibmrobot.cpp(36): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+e:\mstserial - 32(inclass only) most recent copy\ibmrobot.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\mstserial - 32(inclass only) most recent copy\ibmrobot.cpp(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Circle.cpp
+  KinaSource.cpp
+  Generating Code...
+  MSSerialRobot.vcxproj -> E:\MSTserial - 32(inclass only) most recent copy\MSSerialRobot\Debug\MSSerialRobot.exe
+  MSSerialRobot.vcxproj -> E:\MSTserial - 32(inclass only) most recent copy\MSSerialRobot\Debug\MSSerialRobot.pdb (Full PDB)
